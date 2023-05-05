@@ -12,7 +12,7 @@ Si vous avez des questions sur une fonctionnalité, merci de la poser dans l'iss
 
 
 # Ce projet utilise : [discord.js](https://discord.js.org/)
-- Auteur: Fulash
+- Auteur: Yoshino
 
 
 ### Installation
