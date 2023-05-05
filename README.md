@@ -1,16 +1,3 @@
-# SUN INFO : 
----
-SUN™Bot écrit en NodeJS avec la librairie [discord.js](https://discord.js.org/).
-Une fonctionnalité = une branche.
-Branch construction : 
-issue[#NUMISSUE]
-
-Quand une fonctionnalité est terminée, merge avec la branche staging.
-Merci de ne pas push ou merge sur la branche master. Vous pouvez faire une pull-request et attendre validation d'un collègue pour merge.
-
-Si vous avez des questions sur une fonctionnalité, merci de la poser dans l'issue correspondante.
-
-
 # Ce projet utilise : [discord.js](https://discord.js.org/)
 - Auteur: Yoshino
 
@@ -163,8 +150,3 @@ Voici la liste des méthodes et propriétés custom du bot :
     */
     
 ```
-
-License
-----
-
-MIT
